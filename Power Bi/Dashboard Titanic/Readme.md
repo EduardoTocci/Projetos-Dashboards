@@ -17,13 +17,13 @@
 
 # Estrutura do Projeto 
 
- ## Datawarehouse
+ ## 1. Datawarehouse
 
     •Um Datawarehouse foi criado para consolidar os dados.
     •As tabelas foram modeladas em um banco de dados SQL, separadas em tabelas de dimensões e fatos.
     •Após o processamento, os dados foram exportados para arquivos CSV para integração no Power BI.
 
- ## Visualização no Power BI
+ ## 2. Visualização no Power BI
 
     •Dados estruturados foram carregados no Power BI para a construção de relatórios e dashboards interativos.
     •Gráficos, tabelas dinâmicas e métricas foram configurados para explorar os dados de forma intuitiva.
