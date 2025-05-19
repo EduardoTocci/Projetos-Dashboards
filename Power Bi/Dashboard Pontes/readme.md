@@ -1,4 +1,4 @@
-# Painel de Avaliação de Pontes do Brasil 🇧🇷
+# Painel de Avaliação de Pontes do Brasil
 
 Este painel em Power BI tem como objetivo fornecer uma visualização clara e interativa sobre as condições estruturais e a percepção de segurança das pontes em todo o Brasil, com base em avaliações feitas por meio de um questionário.
 
