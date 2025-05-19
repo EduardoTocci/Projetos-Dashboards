@@ -70,41 +70,41 @@ O dataset conta com **1.500 avaliações** distribuídas por diversas pontes em 
 
 ### 🔹 Aba Principal
 
-![Aba principal](imagens/Aba principal.PNG)
+![Aba principal](Imagens/Aba%20principal.PNG)
 
 - Distribuição de pontes por UF e região
 - Visão geral da classificação das pontes (bem avaliadas, neutras, mal avaliadas)
 - Filtros por estado, município, região, classificação da ponte e nome da ponte
 - Gráfico alternável: quantidade de avaliações por estado e município
 
-![Aba principal 2](imagens/aba principal2.PNG)
+![Aba principal 2](Imagens/aba%20principal2.PNG)
 
 - Uso de *Drill Through*: clique com o botão direito em uma barra da classificação desejada e selecione "Drill through"
 
-![Drill Through](imagens/drill through.PNG)
+![Drill Through](Imagens/drill%20through.PNG)
 
 ### 🔸 Página de Classificação (Mal Avaliadas, Neutras ou Bem Avaliadas)
 
 - Após aplicar o *Drill through*, você será redirecionado para uma página com os filtros aplicados anteriormente.
 - Exemplo: aba "Neutras" com filtro do estado de Alagoas.
 
-![Página Neutras](imagens/neutras.PNG)
+![Página Neutras](Imagens/neutras.PNG)
 
 - Uso de *hover* nos gráficos para exibir:
   - UF e município
   - Percentual de respostas para cada tipo (bem avaliadas, neutras e mal avaliadas)
 
-![Hover](imagens/hover.png)
+![Hover](Imagens/hover.png)
 
 - Possibilidade de um segundo *drill through* a partir do gráfico
 
-![Drill Through 2](imagens/drill through2.PNG)
+![Drill Through 2](Imagens/drill%20through2.PNG)
 
 ### 🔻 Detalhamento
 
 - A aba de detalhamento apresenta em formato de tabela todas as respostas individuais para as 10 perguntas da ponte selecionada.
 
-![Detalhamento](imagens/detalhamento.PNG)
+![Detalhamento](Imagens/detalhamento.PNG)
 
 ## Link do Power Bi
 
