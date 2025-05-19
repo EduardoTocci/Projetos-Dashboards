@@ -94,11 +94,14 @@ O dataset conta com **1.500 avaliações** distribuídas por diversas pontes em 
   - UF e município
   - Percentual de respostas para cada tipo (bem avaliadas, neutras e mal avaliadas)
 
+
 ![Hover](Imagens/hover.png)
 
 - Possibilidade de um segundo *drill through* a partir do gráfico
 
 ![Drill Through 2](Imagens/drill%20through2.PNG)
+
+- OBS: Essas funções também serve para as outras abas (Bem avaliadas e Mal avaliadas)
 
 ### 🔻 Detalhamento
 
