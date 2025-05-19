@@ -70,18 +70,18 @@ O dataset conta com **1.500 avaliações** distribuídas por diversas pontes em 
 
 ### 🔹 Aba Principal
 
-![Aba principal](imagens/Aba%20principal.PNG)
+![Aba principal](imagens/Aba principal.PNG)
 
 - Distribuição de pontes por UF e região
 - Visão geral da classificação das pontes (bem avaliadas, neutras, mal avaliadas)
 - Filtros por estado, município, região, classificação da ponte e nome da ponte
 - Gráfico alternável: quantidade de avaliações por estado e município
 
-![Aba principal 2](imagens/aba%20principal2.PNG)
+![Aba principal 2](imagens/aba principal2.PNG)
 
 - Uso de *Drill Through*: clique com o botão direito em uma barra da classificação desejada e selecione "Drill through"
 
-![Drill Through](imagens/drill%20through.PNG)
+![Drill Through](imagens/drill through.PNG)
 
 ### 🔸 Página de Classificação (Mal Avaliadas, Neutras ou Bem Avaliadas)
 
@@ -98,10 +98,14 @@ O dataset conta com **1.500 avaliações** distribuídas por diversas pontes em 
 
 - Possibilidade de um segundo *drill through* a partir do gráfico
 
-![Drill Through 2](imagens/drill%20through2.PNG)
+![Drill Through 2](imagens/drill through2.PNG)
 
 ### 🔻 Detalhamento
 
 - A aba de detalhamento apresenta em formato de tabela todas as respostas individuais para as 10 perguntas da ponte selecionada.
 
 ![Detalhamento](imagens/detalhamento.PNG)
+
+## Link do Power Bi
+
+    https://app.powerbi.com/reportEmbed?reportId=0e34c9a7-8e5b-4d3e-bf09-203543ec16a1&autoAuth=true&ctid=d976d5fc-965b-492f-a991-b0ddd949fb6c
