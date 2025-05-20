@@ -111,4 +111,4 @@ O dataset conta com **1.500 avaliações** distribuídas por diversas pontes em 
 
 ## Link do Power Bi
 
-    https://app.powerbi.com/reportEmbed?reportId=0e34c9a7-8e5b-4d3e-bf09-203543ec16a1&autoAuth=true&ctid=d976d5fc-965b-492f-a991-b0ddd949fb6c
+https://app.powerbi.com/view?r=eyJrIjoiMWQ2NmM4MmUtYzA3NS00NjMxLWE3N2ItNzcyMmJmZTJjZGE0IiwidCI6ImQ5NzZkNWZjLTk2NWItNDkyZi1hOTkxLWIwZGRkOTQ5ZmI2YyJ9
