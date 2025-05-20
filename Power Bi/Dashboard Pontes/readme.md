@@ -26,7 +26,7 @@ Com isso:
 Para classificar as pontes em três categorias (Mal Avaliada, Neutra, Bem Avaliada), dividimos o intervalo entre 10 e 50 em três partes:
 
 - Intervalo total: 50 - 10 = 40
-- Tamanho de cada faixa: 40 ÷ 3 ≈ 13,33
+- Tamanho de cada faixa: 40 ÷ 3 ≈ 13
 
 **Classificação final:**
 
@@ -43,16 +43,16 @@ Se teve **38.6**, será **Bem Avaliada**.
 
 As perguntas foram formuladas com **caráter negativo**, ou seja, quanto mais as pessoas discordam, melhor é a percepção da ponte:
 
-1. A) A ponte está mal iluminada?
-2. B) A sinalização na ponte é inadequada?
-3. C) Há acúmulo de lixo ou entulho na ponte?
-4. D) Há sinais visíveis de ferrugem ou rachaduras?
-5. E) A ponte apresenta trepidação excessiva ao passar veículos?
-6. F) A estrutura da ponte aparenta má conservação?
-7. G) Há dificuldades de acesso para pedestres ou ciclistas?
-8. H) Há buracos ou desníveis na ponte?
-9. I) A ponte apresenta tráfego frequentemente congestionado?
-10. J) Você se sente desconfortável/inseguro ao passar na ponte?
+ A) A ponte está mal iluminada?
+ B) A sinalização na ponte é inadequada?
+ C) Há acúmulo de lixo ou entulho na ponte?
+ D) Há sinais visíveis de ferrugem ou rachaduras?
+ E) A ponte apresenta trepidação excessiva ao passar veículos?
+ F) A estrutura da ponte aparenta má conservação?
+ G) Há dificuldades de acesso para pedestres ou ciclistas?
+ H) Há buracos ou desníveis na ponte?
+ I) A ponte apresenta tráfego frequentemente congestionado?
+ J) Você se sente desconfortável/inseguro ao passar na ponte?
 
 ## Sobre os Dados
 
