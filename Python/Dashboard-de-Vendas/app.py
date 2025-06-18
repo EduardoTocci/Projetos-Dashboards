@@ -4,15 +4,17 @@ import plotly.express as pl
 from dataset import df
 from utilidade import formatNumber,tabela_rec_produto,tabela_venda_produto,formatNumber2
 from gráfico import criar_grafico_receita_estado,criacao_grafico_mensal,criacao_grafico_rec_catproduto ,criacao_venda_catproduto,criacao_venda_estado,avaliacao_compra,tipo_pagamento,grafico_venda_mensal,grafico_rec_vendedor,grafico_venda_vendedor
-
+import os
 
 
 # deixa o site mais largo
 st.set_page_config(layout="wide")
 st.title("Dashboard de Vendas :shopping_trolley:")
 
-with open("style.css") as f:
-    st.markdown(f"<style>{f.read()}</style>",unsafe_allow_html=True)
+css_path = os.path.join(os.path.dirname(__file__), 'style.css')
+
+with open(css_path) as f:
+    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
 # criação de filtros 
