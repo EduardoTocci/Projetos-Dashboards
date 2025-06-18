@@ -25,4 +25,4 @@ Obs: Dados fictícios
     • gráfico.py : Criação de tabelas menores com dados específicos para criação de gráficos
 
 # Link do Dashboard
-https://dashboard-de-vendas-brbvbtrrx3vbbpljobezxn.streamlit.app/
+https://gxbt2avmynkvh8bpwymifl.streamlit.app/
