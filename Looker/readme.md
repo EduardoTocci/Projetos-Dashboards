@@ -47,4 +47,4 @@ Entender os dados, encontrar oportunidades de negócios e insights, e propor aç
  • O relatório final com todas as análises, insights e recomendações está disponível no arquivo:
     *Relatório campanha iFood.pdf*
  • O dashboard com os gráficos, está no arquivo:
-    *Dashboard.pdf*
+    *Dashboard.pdf* ou pelo link https://lookerstudio.google.com/reporting/87dd8382-be47-4832-8053-289484c5e0e6
