@@ -1,12 +1,12 @@
 # Análise de Campanha de Marketing do IFOOD – Projeto Comunidade DS
-    Este projeto foi desenvolvido como parte do curso "Análise de Dados na Prática" da Comunidade DS, com o objetivo de aplicar técnicas analíticas a dados reais de uma campanha de marketing, propondo insights e ações baseadas em dados para aumentar o faturamento da empresa.
+Este projeto foi desenvolvido como parte do curso "Análise de Dados na Prática" da Comunidade DS, com o objetivo de aplicar técnicas analíticas a dados reais de uma campanha de marketing, propondo insights e ações baseadas em dados para aumentar o faturamento da empresa.
 
 ## 🎯 Contexto do Desafio
-    O time de marketing tem como objetivo aumentar o faturamento vindo das campanhas, pois manter um alto engajamento dos clientes é essencial para o crescimento e consolidação da empresa como líder de mercado.
+O time de marketing tem como objetivo aumentar o faturamento vindo das campanhas, pois manter um alto engajamento dos clientes é essencial para o crescimento e consolidação da empresa como líder de mercado.
 
 ### Diante disso, o desafio proposto foi:
 
-     Entender os dados, encontrar oportunidades de negócios e insights, e propor ações baseadas em dados para otimizar os resultados das campanhas e gerar valor para a empresa.
+Entender os dados, encontrar oportunidades de negócios e insights, e propor ações baseadas em dados para otimizar os resultados das campanhas e gerar valor para a empresa.
 
 ##  Metodologia Utilizada
 #### Durante o projeto, foram aplicadas as seguintes etapas:
